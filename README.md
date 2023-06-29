@@ -1,55 +1,16 @@
+<img src="/" alt="BG" style="align-items: center;">![QC BG Image](https://github.com/devsujay19/devsujay19/assets/132755939/51b768bd-86b1-4645-b9be-dc7499acfb72)</img>
+
 # `Hello World!`
 ## Introduction :
 ### Name : Sujay Mukherjee
-### Age : 20
+### Age : ∞
 ### Gender : Male
 ## Programming Skills in 
 - HTML
 - CSS
-- JS
-- TS
+- JavaScript
 - Python
 - PHP
-- Swift
-- SQL
-- Ruby
-- Rust
-- C
-- C#
-- C++
-- D
-- Cobol
-- CoffeeScript
-- Go
-- Java
-
-## Data Bases
-- SQL
-- SQL Lite
-- MySQL
-- MongoDB
-- Oracle
-- PostgreSQL
-
-## Frame Works
-- Angular
-- AngularJS
-- NodeJS
-- React
-- VueJS
-- Vue
-- Django
-- Flask
-- Laravel
-- Ruby on Rails
-- Bootstrap
-- NextJS
-- NuxtJS
-- React Native
-- JQuery
-- Flutter
-- NativeScript
-- Meteor
 
 ## Connect With Me
 Follow me in : [Facebook](https://www.facebook.com/profile.php?id=100092647425033)<br>
