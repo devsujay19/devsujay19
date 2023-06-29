@@ -1,4 +1,4 @@
-<img src="/" alt="BG" style="align-items: center;">![QC BG Image](https://github.com/devsujay19/devsujay19/assets/132755939/51b768bd-86b1-4645-b9be-dc7499acfb72)</img>
+<img src="/" alt="" style="align-items: center;">![QC BG Image](https://github.com/devsujay19/devsujay19/assets/132755939/51b768bd-86b1-4645-b9be-dc7499acfb72)</img>
 
 # `Hello World!`
 ## Introduction :
