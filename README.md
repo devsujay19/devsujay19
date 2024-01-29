@@ -23,6 +23,11 @@
 - Database
 - Swift
 - ASP.NET
+- Rust
+- R
+- Ruby
+- Zig
+- Go/Golang
 - PHP
 - Haskell
 - XSS
