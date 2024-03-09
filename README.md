@@ -14,7 +14,7 @@
 - Lua
 - Python
 - XML
-- Bash Scripting
+- BASH Scripting
 - ExpressJS
 - AngularJS
 - API
