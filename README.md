@@ -1,6 +1,6 @@
 # `Hello World!`
-### My name is Sujay and I'm a MEARN-Stack, Android, iOS, Desktop Application, Game Developer and Designer.
-### My skills in :-
+### My name is Sujay and I'm a Full Stack, Android, iOS, Desktop Application, Game Developer and Designer.
+### My skills are in :-
 - JavaScript
 - JQuery
 - Svelte
