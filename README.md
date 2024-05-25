@@ -16,4 +16,6 @@ See more here: [devsujay19?tab=repositories](https://github.com/devsujay19?tab=r
 
 Join the official [Discord Server](https://discord.gg/PuVSsSu59g) of [Astra CSS](https://astracss.vercel.app).
 
+Hire [me](https://fiverr.com/jaymuk1) on Fiverr!
+
 Feel free to collaborate with me!
