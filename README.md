@@ -3,7 +3,40 @@
 
 ### My skills are in :-
 
-- It's a very long list. 😅
+- JavaScript
+- Python
+- BASh
+- ZSh
+- ReactJS
+- NextJS
+- ASP.NET
+- Laravel
+- PHP
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- Foundation
+- AstroJS
+- Framer Motion
+- Aceternity UI
+- GatsbyJS
+- AngularJS
+- TypeScript
+- GDScript
+- C
+- C++
+- C#
+- Go
+- Data Management
+- Arduino
+- Robotics
+- DSA
+- Java
+- VueJS
+- NuxtJS
+- Solidity
+- Decentralized Applications
 
 ### Projects :-
 
@@ -15,6 +48,8 @@ See more here: [devsujay19?tab=repositories](https://github.com/devsujay19?tab=r
 ### Reach me :-
 
 Join the official [Discord Server](https://discord.gg/PuVSsSu59g) of [Astra CSS](https://astracss.vercel.app).
+
+### Hire me :-
 
 Hire [me](https://fiverr.com/jaymuk1) on Fiverr!
 
