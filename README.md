@@ -1,53 +1,32 @@
 # `Hello World!`
-### My name is Sujay and I'm Light-Speed Developer with faster hands in [JavaScript](https://github.com/topics/javascript), [BASh](https://github.com/topics/bash) and [Python](https://github.com/topics/python)!
+### My name is Sujay and I'm The Light-Speed Developer with Light-Speed hands on [JavaScript](https://github.com/topics/javascript), [BASh](https://github.com/topics/bash) and [Python](https://github.com/topics/python)!
 
 ### My skills are in :-
 
-- JavaScript
-- Python
-- BASh
-- ZSh
-- ReactJS
-- NextJS
-- ASP.NET
-- Laravel
-- PHP
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-- Foundation
-- AstroJS
-- Framer Motion
-- Aceternity UI
-- GatsbyJS
-- AngularJS
-- TypeScript
-- GDScript
-- C
-- C++
-- C#
-- Go
-- Data Management
-- Arduino
-- Robotics
-- DSA
-- Java
-- VueJS
-- NuxtJS
-- Solidity
-- Decentralized Applications
+- Blockchain Development
+- Decentralization
+- Mobile Application Development
+- Database Development
+- Server Development
+- API Writing and Scripting
+- UI Development
+- Software Development
+- Game Development
 
 ### Projects :-
+
+#### Astra CSS
 
 I'm the Creator of [Astra CSS](https://github.com/devsujay19/astracss), a Utility-First CSS Framework for designing User Interfaces Blazing Fast.
 See more here: [devsujay19?tab=repositories](https://github.com/devsujay19?tab=repositories)
 
 - Help me building more projects that helps other developers on their coding journey!
 
-### Reach me :-
-
 Join the official [Discord Server](https://discord.gg/PuVSsSu59g) of [Astra CSS](https://astracss.vercel.app).
+
+#### Quark
+
+I'm the creator of [Quark](https://github.com/Quark-Network/quark), a Fast, Reliable and Decentralized Blockchain-based Exchangeable Token for the Web 3.0 Infrastructure.
 
 ### Hire me :-
 
