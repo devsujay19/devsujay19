@@ -32,4 +32,10 @@ I'm the creator of [Quark](https://github.com/Quark-Network/quark), a Fast, Reli
 
 Hire [me](https://fiverr.com/jaymuk1) on Fiverr!
 
+### DevCard from [Daily.dev](https://daily.dev) :-
+
+<a href="https://app.daily.dev/devsujay19"><img src="https://api.daily.dev/devcards/v2/2GPGjhX8T2ti0ZysE9KhE.png?type=wide&r=gqz" width="652" alt="Sujay Mukherjee's Dev Card"/></a>
+
+### Collaboration :-
+
 Feel free to collaborate with me!
