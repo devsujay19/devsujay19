@@ -1,6 +1,12 @@
 # `Hello World!`
 ### My name is Sujay and I'm The Light-Speed Developer with Light-Speed hands on [JavaScript](https://github.com/topics/javascript), [BASh](https://github.com/topics/bash) and [Python](https://github.com/topics/python)!
 
+<a href="https://sujay.now.sh?ref=https://github.com/devsujay19#sujay.now.sh-site-screensnap.png" target="_blank">
+  
+  ![sujay now sh-site-screensnap](https://github.com/user-attachments/assets/3c9179a3-f540-4258-885c-0dbd0291b860)
+
+</a><p align="center"><small>See my portfolio.</small></p>
+
 ### My skills are in :-
 
 - Blockchain Development
@@ -17,7 +23,7 @@
 
 #### Astra CSS
 
-I'm the Creator of [Astra CSS](https://github.com/devsujay19/astracss), a Utility-First CSS Framework for designing User Interfaces Blazing Fast.
+I'm the Creator of [Astra CSS](https://github.com/devsujay19/astracss), an Utility-First CSS Framework for designing User Interfaces Blazing Fast.
 See more here: [devsujay19?tab=repositories](https://github.com/devsujay19?tab=repositories)
 
 - Help me building more projects that helps other developers on their coding journey!
