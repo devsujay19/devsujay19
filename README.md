@@ -3,7 +3,7 @@
 ### My name is Sujay and I'm The Light-Speed Developer with Light-Speed hands on [JavaScript](https://github.com/topics/javascript), [BASh](https://github.com/topics/bash) and [Python](https://github.com/topics/python)!
 
 <a href="https://sujay.now.sh?ref=https://github.com/devsujay19#sujay.now.sh-site-screensnap.png" target="_blank">
-  
+
   ![sujay now sh-site-screensnap](https://github.com/user-attachments/assets/3c9179a3-f540-4258-885c-0dbd0291b860)
 
 </a><p align="center"><small>• See my portfolio •</small></p>
