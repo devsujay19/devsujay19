@@ -8,7 +8,7 @@
 
 </a><p align="center"><small>• See my portfolio •</small></p>
 
-### My skills are in :-
+### • My skills are in :-
 
 - Blockchain Development
 - Decentralization
@@ -20,7 +20,7 @@
 - Software Development
 - Game Development
 
-### Projects :-
+### • Projects :-
 
 #### Astra CSS
 
@@ -35,14 +35,31 @@ Join the official [Discord Server](https://discord.gg/PuVSsSu59g) of [Astra CSS]
 
 I'm the creator of [Quark](https://github.com/Quark-Network/quark), a Fast, Reliable and Decentralized Blockchain-based Exchangeable Token for the Web 3.0 Infrastructure.
 
-### Hire me :-
+### • Hire me :-
 
 Hire [me](https://fiverr.com/jaymuk1) on Fiverr!
 
-### DevCard from [Daily.dev](https://daily.dev) :-
+### • Some statistics :-
+
+[![Sujay's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsujay19&theme=tokyonight&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&broder_radius=5.0&hide_border=true&rank_icon=github)](https://github.com/devsujay19/devsujay19)
+
+### • Top/Most Used Languages :-
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsujay19&layout=pie&langs_count=100&theme=tokyonight&hide_border=true)](https://github.com/devsujay19/Hello-World-In-17-Different-Programming-Languages)
+
+### • Suggested codebases :-
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devsujay19&repo=edex-ui&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/devsujay19/edex-ui)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devsujay19&repo=blocks&show_owner=true&&theme=tokyonight&hide_border=true)](https://github.com/devsujay19/blocks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devsujay19&repo=ChatGPT-Desktop-Application&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/devsujay19/ChatGPT-Desktop-Application)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devsujay19&repo=spotify-tui&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/devsujay19/spotify-tui)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devsujay19&repo=mastodon&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/devsujay19/mastodon)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devsujay19&repo=NFT-AvatarGenerator&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/devsujay19/NFT-AvatarGenerator)
+
+### • DevCard from [Daily.dev](https://daily.dev/devsujay19) :-
 
 <a href="https://app.daily.dev/devsujay19"><img src="https://api.daily.dev/devcards/v2/2GPGjhX8T2ti0ZysE9KhE.png?type=wide&r=gqz" width="652" alt="Sujay Mukherjee's Dev Card"/></a>
 
-### Collaboration :-
+### • Collaboration :-
 
 Feel free to collaborate with me!
