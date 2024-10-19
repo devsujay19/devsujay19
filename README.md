@@ -8,6 +8,27 @@
 
 </a><p align="center"><small>• See my portfolio •</small></p>
 
+### • A brief introduction.
+
+```ts
+// A brief introduction.
+
+import { dates } from "../../data/lib/dates.ts";
+
+const sujay: Human || sujay: !Human = {
+  fullName: "Sujay Mukherjee",
+  presenceSince: dates.birthDate || "19th September, 2010",
+  from: "India",
+  title: "Software developer",
+  hobbies: ["Coding", "Photography", "Story-writing", "Listening songs & music"],
+  dream: "Wanna work on Google/Apple/Meta/Microsoft/Amazon as a senior SE.",
+  interests: ["Blockchain development", "Cryptography", "SF genre", "Someone..."],
+  favoriteLanguages: ["JavaScript", "Rust", "Python", "Go", "C family", "Java"],
+  activeOftency: high,
+  website: `https://sujay.now.sh`,
+};
+```
+
 ### • My skills are in :-
 
 - Blockchain Development
