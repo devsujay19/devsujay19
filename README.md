@@ -1,6 +1,6 @@
 # `Hello World!`
 
-### My name is Sujay and I'm The Light-Speed Developer with Light-Speed hands on [JavaScript](https://github.com/topics/javascript), [BASh](https://github.com/topics/bash) and [Python](https://github.com/topics/python)!
+### My name is Zayan and I'm The Light-Speed Developer with Light-Speed hands on [JavaScript](https://github.com/topics/javascript), [BASh](https://github.com/topics/bash) and [Python](https://github.com/topics/python)!
 
 <a href="https://sujay.now.sh?ref=https://github.com/devsujay19#sujay.now.sh-site-screensnap.png" target="_blank">
 
@@ -15,8 +15,8 @@
 
 import { dates } from "../../data/lib/dates.ts";
 
-const sujay: Human || sujay: !Human = {
-  fullName: "Sujay Mukherjee",
+const zayan: Human || zayan: !Human = {
+  fullName: "Zayan",
   presenceSince: dates.birthDate || "19th September, 2010",
   from: "India",
   title: "Software developer",
@@ -62,7 +62,7 @@ Hire [me](https://fiverr.com/jaymuk1) on Fiverr!
 
 ### • Some statistics :-
 
-[![Sujay's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsujay19&theme=tokyonight&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&broder_radius=5.0&hide_border=true&rank_icon=github)](https://github.com/devsujay19/devsujay19)
+[![Zayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsujay19&theme=tokyonight&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&broder_radius=5.0&hide_border=true&rank_icon=github)](https://github.com/devsujay19/devsujay19)
 
 ### • Top/Most Used Languages :-
 
@@ -77,9 +77,9 @@ Hire [me](https://fiverr.com/jaymuk1) on Fiverr!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devsujay19&repo=mastodon&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/devsujay19/mastodon)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devsujay19&repo=NFT-AvatarGenerator&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/devsujay19/NFT-AvatarGenerator)
 
-### • DevCard from [Daily.dev](https://daily.dev/devsujay19) :-
+### • DevCard from [Daily.dev](https://app.daily.dev/zayan_shx) :-
 
-<a href="https://app.daily.dev/devsujay19"><img src="https://api.daily.dev/devcards/v2/2GPGjhX8T2ti0ZysE9KhE.png?type=wide&r=gqz" width="652" alt="Sujay Mukherjee's Dev Card"/></a>
+<a href="https://app.daily.dev/zayan_shx"><img src="https://api.daily.dev/devcards/v2/2GPGjhX8T2ti0ZysE9KhE.png?type=wide&r=9sq" width="652" alt="Zayan's Dev Card"/></a>
 
 ### • Collaboration :-
 
