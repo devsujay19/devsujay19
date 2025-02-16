@@ -17,7 +17,7 @@ import { dates } from "../../data/lib/dates.ts";
 
 const sujay: Human || sujay: !Human = {
   fullName: "Sujay",
-  presenceSince: dates.birthDate || September 19th, 2010",
+  presenceSince: dates.birthDate || "September 19th, 2010",
   from: "India",
   title: "Software developer",
   hobbies: ["Coding", "Photography", "Story-writing", "Listening songs & music"],
